@@ -63,12 +63,14 @@ text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px
 }
 
 .btn-primary{
-  background-color: #6648b1;
+  background-color:white;
+  color: #000000;
   border: 1px solid #6648b1;
 }
 
 .btn-primary:hover{
-  background-color: #563d7c;
+  background-color: #d2d2ff;
+  color: #000000;
   border: #563d7c;
 }
 
@@ -157,11 +159,11 @@ text-align: justify;
 .fa-instagram:hover,
 .fa-youtube:hover
 {
-    color: #d5d5d5;
+    color: #d2d2ff;
 }
 
 footer{
-  background-color: #3f3f3f;
+  background-color: #25383C;
   color: #d5d5d5;
   padding-top: 2rem;
 
